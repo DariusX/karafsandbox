@@ -1,0 +1,6 @@
+<features name="com.practicegoodthepry.karafsandbox-${project.version}">
+	<feature name="eventhandler-command" version="${project.version}">
+		<bundle>mvn:org.practivegoodtheory/karafsandbox/${project.version}
+		</bundle>
+	</feature>
+</features>
